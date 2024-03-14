@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gortizji.github.io/gortizji.github.io//sitemap.xml
+Sitemap: https://gortizji.github.io/sitemap.xml
