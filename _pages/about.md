@@ -2,21 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: #Research Scientist @ <a href='https://deepmind.google/'>Google DeepMind</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: gortizji⚛gmail.com
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+¡Hola! 👋 I'm a **research scientist** at [Google DeepMind](https://deepmind.google) making AI more reliable and trustworthy. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I obtained my PhD at [EPFL](https://www.epfl.ch/en/)🇨🇭 under the supervision of Pascal Frossard where I focused on the [empirical understanding of deep learning](https://infoscience.epfl.ch/record/306613). During my PhD, I interned at [Google Research](https://research.google/) in Zürich and visited Philip Torr's lab at the [University of Oxford](https://www.ox.ac.uk/) 🇬🇧 as part of the [ELLIS PhD Program](https://ellis.eu/projects/a-geometric-look-to-understand-generalization-and-robustness-of-deep-learning). Prior to that, I obtained my MSc. from TU Delft 🇳🇱 and my BSc. from Universidad Politécnica de Madrid 🇪🇸.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Research interests:** I work in [responsible AI](), developing tools to make models more reliable, fair, safe and universally useful. I am also interested in the [science of deep learning](), with a focus on understanding how editions in the weights affect the behavior of AI systems.
+
+If you're not sure how to to pronounce my name you can watch this [video](https://www.youtube.com/watch?v=6dN7IJXsh6Q). Here's a quick tip: the double "ll" in Spanish sounds like a "y" and the "u" in "Gui" is silent. So altogether, it's "ghee-YAIR-moh."
